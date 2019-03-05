@@ -15,4 +15,4 @@ Screenshot (v1.02): <br />
 <br />
 <br />
 download: [SoC as compressed file](https://raw.githubusercontent.com/Vrda-GF/SoC/master/static/files/SoC.zip) <br />
-email me: anton.vrdoljak@gmail.com <br />
+email: anton.vrdoljak@gmail.com <br />
