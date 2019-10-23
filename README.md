@@ -1,4 +1,4 @@
-# SoC v1.02
+# SoC v1.10
 Stacks Of Coins (SoC)<br />
 <br />
 Copyright © 2019 by Anton Vrdoljak <br />
